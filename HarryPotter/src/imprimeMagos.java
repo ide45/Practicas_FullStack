@@ -1,5 +1,3 @@
-package practicaHarry;
-
 public class imprimeMagos {
     public static void main(String[] args) {
         testMago();
