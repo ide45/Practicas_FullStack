@@ -1,9 +1,3 @@
-package PracticaSpidey;
-
-import imonsh.Screen;
-
-import java.awt.*;
-
 public class SpiderMan2099 extends Spiderman implements SpiderMan2099Methods{
     public SpiderMan2099(String nombre, String raza, String genero, String universo){
         super(nombre, raza, genero, universo);
