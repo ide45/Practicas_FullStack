@@ -1,5 +1,3 @@
-package practicaMona;
-
 public class MonaTheOctocat {
     private String profesion;
 
