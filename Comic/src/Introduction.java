@@ -1,7 +1,3 @@
-package Comic;
-import imonsh.Screen;
-import java.awt.*;
-
 public class Introduction extends Thread{
     Screen screen = new Screen();
 
