@@ -1,8 +1,3 @@
-package PracticaSpidey;
-import imonsh.Screen;
-
-import java.awt.*;
-
 public class SpiderGirl extends Spiderman implements SpiderGirlMethods, SpiderSense{
     public SpiderGirl(String nombre, String raza, String genero, String universo){
         super(nombre, raza, genero, universo);
