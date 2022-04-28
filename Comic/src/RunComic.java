@@ -1,5 +1,3 @@
-package Comic;
-
 public class RunComic {
     public static void main(String[] args) {
         Thread introduction = new Thread(new Introduction());
