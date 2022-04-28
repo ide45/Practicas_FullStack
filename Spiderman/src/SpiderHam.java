@@ -1,9 +1,3 @@
-package PracticaSpidey;
-import imonsh.Screen;
-import imonsh.Colors;
-
-import java.awt.*;
-
 public class SpiderHam extends Spiderman implements SpiderHamMethods, SpiderSense{
     public SpiderHam(String nombre, String raza, String genero, String universo){
         super(nombre, raza, genero, universo);
