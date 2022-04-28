@@ -1,5 +1,3 @@
-package practicaHarry;
-
 public class Magos {
     String casa;
     String genero;
