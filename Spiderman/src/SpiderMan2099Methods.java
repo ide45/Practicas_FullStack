@@ -1,6 +1,3 @@
-package PracticaSpidey;
-import imonsh.Screen;
-
 public interface SpiderMan2099Methods {
     void enhancedVision(Screen screen);
     void fangs(Screen screen);
