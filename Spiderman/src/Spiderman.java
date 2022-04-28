@@ -1,9 +1,3 @@
-package PracticaSpidey;
-import imonsh.Screen;
-import imonsh.Colors;
-
-import java.awt.*;
-
 public class Spiderman {
 
     private String nombre;
