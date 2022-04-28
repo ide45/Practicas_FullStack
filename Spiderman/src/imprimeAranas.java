@@ -1,6 +1,3 @@
-package PracticaSpidey;
-import imonsh.Screen;
-
 public class imprimeAranas {
     public static void main(String[] args) throws InterruptedException{
         defSpider();
