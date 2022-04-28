@@ -1,9 +1,3 @@
-package PracticaSpidey;
-import imonsh.Screen;
-
-import java.awt.*;
-
-
 public class PeterParker extends Spiderman implements SpiderSense{
     public PeterParker(String nombre, String raza, String genero, String universo){
         super(nombre, raza, genero, universo);
