@@ -1,7 +1,3 @@
-package Comic;
-import imonsh.Dialog;
-import imonsh.Screen;
-
 public class Comic implements Runnable{
     Screen screen = new Screen();
     Dialog dialog = new Dialog();
