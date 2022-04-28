@@ -1,5 +1,3 @@
-package practicaMona;
-
 public class imprimeMonas {
     public static void main(String[] args) {
         muestraMonas();
